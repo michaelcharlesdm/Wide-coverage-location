@@ -15,6 +15,6 @@
    <br>
    <br>
    <div align="center" >
-    <img src="https://raw.githubusercontent.com/michaelcharlesdm/Easy-Shopping/a01fd2b5f5dcd7a2492b44cce2dd14290c42186a/Assets/mobile.png"/> 
+    <img src="https://raw.githubusercontent.com/michaelcharlesdm/Wide-coverage-location/068d2a479b48b505d3db7e445c5d630295fa10c4/img/mobile%202.png"/> 
    </div>
   
